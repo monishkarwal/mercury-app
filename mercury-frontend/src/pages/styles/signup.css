@@ -1,0 +1,17 @@
+.signup-wrapper {
+  height: 100vh;
+  background-color: #f5f5f5;
+}
+
+.signup-content {
+  position: relative;
+  margin-bottom: 150px;
+}
+
+.signup-card {
+  width: 400px;
+}
+
+.signup-form {
+  max-width: 350px;
+}
